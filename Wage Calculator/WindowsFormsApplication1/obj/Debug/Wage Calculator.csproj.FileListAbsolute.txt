@@ -1,0 +1,21 @@
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wage Caculator.exe.config
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wage Caculator.exe
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wage Caculator.pdb
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wage Calculator.csprojResolveAssemblyReference.cache
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wage Calculator.csproj.GenerateResource.Cache
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wage Caculator.exe
+F:\Visual Programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wage Caculator.pdb
+F:\Visual Programming\Wage Calculator\WindowsFormsApplication1\bin\Debug\Wage Caculator.exe.config
+F:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Caculator.exe
+F:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Caculator.pdb
+F:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Calculator.csprojResolveAssemblyReference.cache
+F:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Calculator.csproj.GenerateResource.Cache
+G:\Visual Programming\Wage Calculator\WindowsFormsApplication1\bin\Debug\Wage Caculator.exe.config
+G:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Caculator.exe
+G:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Caculator.pdb
+G:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Calculator.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Visual Programming\Wage Calculator\WindowsFormsApplication1\obj\Debug\Wage Calculator.csproj.GenerateResource.Cache

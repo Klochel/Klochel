@@ -1,0 +1,25 @@
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\bin\Debug\shapes.exe.config
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\bin\Debug\shapes.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\bin\Debug\shapes.pdb
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.AddRightTriangle.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.Main.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.Properties.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.csproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.exe
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.pdb
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.AddCircle.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.AddRectangle.resources
+C:\Users\Jake\Documents\Visual Studio 2015\Projects\Shapes\shapes\obj\Debug\shapes.AddSquare.resources
+G:\Visual Programming\Shapes\shapes\bin\Debug\shapes.exe.config
+G:\Visual Programming\Shapes\shapes\bin\Debug\shapes.exe
+G:\Visual Programming\Shapes\shapes\bin\Debug\shapes.pdb
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.AddCircle.resources
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.AddRectangle.resources
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.AddRightTriangle.resources
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.Main.resources
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.Properties.Resources.resources
+G:\Visual Programming\Shapes\shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.exe
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.pdb
+G:\Visual Programming\Shapes\shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache

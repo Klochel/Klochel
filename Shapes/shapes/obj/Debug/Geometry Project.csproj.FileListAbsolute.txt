@@ -1,0 +1,4 @@
+G:\Visual Programming\Shapes\shapes\bin\Debug\Geometry Project.exe.config
+G:\Visual Programming\Shapes\shapes\bin\Debug\shapes.exe.config
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.exe
+G:\Visual Programming\Shapes\shapes\obj\Debug\shapes.pdb
