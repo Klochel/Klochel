@@ -1,0 +1,9 @@
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\bin\Debug\Drawing Graphics.exe.config
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\bin\Debug\Drawing Graphics.exe
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\bin\Debug\Drawing Graphics.pdb
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\obj\Debug\Drawing Graphics.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\obj\Debug\Drawing_Graphics.Form1.resources
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\obj\Debug\Drawing_Graphics.Properties.Resources.resources
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\obj\Debug\Drawing Graphics.csproj.GenerateResource.Cache
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\obj\Debug\Drawing Graphics.exe
+G:\Visual Programming\Geometric objects\CIS209-Drawing-Geometric-Objects-master\Drawing Graphics\obj\Debug\Drawing Graphics.pdb
