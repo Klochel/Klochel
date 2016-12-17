@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>G:\Visual Programming\Book Publisher\Book Publisher\Form1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>MSSQL::/_LocalDB__MSSQLLocalDB/G__VISUAL_PROGRAMMING_BOOK_PUBLISHER_BOOK_PUBLISHER_BOOK_PUBLISHER.MDF/True/SqlTable/dbo.Table.sql</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

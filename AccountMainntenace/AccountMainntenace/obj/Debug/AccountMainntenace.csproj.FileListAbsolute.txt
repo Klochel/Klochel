@@ -1,0 +1,15 @@
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\bin\Debug\AccountMainntenace.exe.config
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.csprojResolveAssemblyReference.cache
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\obj\Debug\Account_Maintenance.Form1.resources
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.Properties.Resources.resources
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.csproj.GenerateResource.Cache
+F:\AccountMainntenace\AccountMainntenace\bin\Debug\AccountMainntenace.exe.config
+F:\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.Properties.Resources.resources
+F:\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.csproj.GenerateResource.Cache
+F:\AccountMainntenace\AccountMainntenace\bin\Debug\AccountMainntenace.exe
+F:\AccountMainntenace\AccountMainntenace\bin\Debug\AccountMainntenace.pdb
+F:\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.exe
+F:\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.pdb
+F:\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMaintenance.Form1.resources
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.exe
+G:\Visual Programming\AccountMainntenace\AccountMainntenace\obj\Debug\AccountMainntenace.pdb
