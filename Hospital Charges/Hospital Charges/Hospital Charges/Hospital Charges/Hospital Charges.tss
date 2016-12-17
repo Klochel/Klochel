@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\Form1.cs</string>
+      <string>G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\Form1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Start Page</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

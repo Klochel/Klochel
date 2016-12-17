@@ -1,0 +1,27 @@
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe.config
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Form1.resources
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Properties.Resources.resources
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.GenerateResource.Cache
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.exe
+G:\Visual Programming\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.pdb
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe.config
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.exe
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.pdb
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csprojResolveAssemblyReference.cache
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Form1.resources
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Properties.Resources.resources
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.GenerateResource.Cache
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+Z:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe.config
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.exe
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.pdb
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csprojResolveAssemblyReference.cache
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Form1.resources
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital_Charges.Properties.Resources.resources
+G:\Hospital Charges\Hospital Charges\Hospital Charges\Hospital Charges\obj\Debug\Hospital Charges.csproj.GenerateResource.Cache
