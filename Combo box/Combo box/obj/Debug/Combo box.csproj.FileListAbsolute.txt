@@ -1,0 +1,18 @@
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\bin\Debug\Combo box.exe.config
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\bin\Debug\Combo box.exe
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\bin\Debug\Combo box.pdb
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\obj\Debug\Combo box.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\obj\Debug\Combo_box.Form1.resources
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\obj\Debug\Combo_box.Properties.Resources.resources
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\obj\Debug\Combo box.csproj.GenerateResource.Cache
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\obj\Debug\Combo box.exe
+C:\Users\Sean\Source\Repos\C-Sharp-Programs\Combo box\Combo box\obj\Debug\Combo box.pdb
+F:\Visual Programming\Combo box\Combo box\bin\Debug\Combo box.exe.config
+F:\Visual Programming\Combo box\Combo box\obj\Debug\Combo box.exe
+F:\Visual Programming\Combo box\Combo box\obj\Debug\Combo box.pdb
+F:\Visual Programming\Combo box\Combo box\bin\Debug\Combo box.exe
+F:\Visual Programming\Combo box\Combo box\bin\Debug\Combo box.pdb
+F:\Visual Programming\Combo box\Combo box\obj\Debug\Combo box.csprojResolveAssemblyReference.cache
+F:\Visual Programming\Combo box\Combo box\obj\Debug\Combo_box.Form1.resources
+F:\Visual Programming\Combo box\Combo box\obj\Debug\Combo_box.Properties.Resources.resources
+F:\Visual Programming\Combo box\Combo box\obj\Debug\Combo box.csproj.GenerateResource.Cache

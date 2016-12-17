@@ -1,0 +1,10 @@
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.GenerateResource.Cache
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.frmDormAndMealPlans.resources
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.frmTotalCharges.resources
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+G:\Visual Programming\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb
