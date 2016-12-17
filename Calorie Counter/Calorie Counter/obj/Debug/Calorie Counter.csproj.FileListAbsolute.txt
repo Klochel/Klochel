@@ -1,0 +1,18 @@
+F:\Visual Programming\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe.config
+F:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csprojResolveAssemblyReference.cache
+F:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Form1.resources
+F:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Properties.Resources.resources
+F:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.GenerateResource.Cache
+F:\Visual Programming\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+F:\Visual Programming\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+F:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.exe
+F:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.pdb
+G:\Visual Programming\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe.config
+G:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.exe
+G:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.pdb
+G:\Visual Programming\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.exe
+G:\Visual Programming\Calorie Counter\Calorie Counter\bin\Debug\Calorie Counter.pdb
+G:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Form1.resources
+G:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie_Counter.Properties.Resources.resources
+G:\Visual Programming\Calorie Counter\Calorie Counter\obj\Debug\Calorie Counter.csproj.GenerateResource.Cache
