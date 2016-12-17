@@ -1,0 +1,54 @@
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe.config
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Form1.resources
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Properties.Resources.resources
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.exe
+F:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe.config
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Form1.resources
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Properties.Resources.resources
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe.config
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.exe
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.pdb
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Form1.resources
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Properties.Resources.resources
+Z:\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe.config
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Form1.resources
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Properties.Resources.resources
+G:\Visual Programming\Ice Cream Shop (2)\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe.config
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Form1.resources
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Properties.Resources.resources
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csproj.GenerateResource.Cache
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe.config
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\bin\Debug\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Form1.resources
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice_Cream_Shop.Properties.Resources.resources
+G:\Visual Programming\Ice Cream Shop 2\Ice Cream Shop\Ice Cream Shop\Ice Cream Shop\obj\Debug\Ice Cream Shop.csproj.GenerateResource.Cache

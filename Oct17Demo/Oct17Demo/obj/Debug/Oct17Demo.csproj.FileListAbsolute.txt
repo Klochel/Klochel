@@ -1,0 +1,5 @@
+G:\Visual Programming\Oct17Demo\Oct17Demo\bin\Debug\Oct17Demo.exe.config
+G:\Visual Programming\Oct17Demo\Oct17Demo\obj\Debug\Oct17Demo.csprojResolveAssemblyReference.cache
+G:\Visual Programming\Oct17Demo\Oct17Demo\obj\Debug\Oct17Demo.Form1.resources
+G:\Visual Programming\Oct17Demo\Oct17Demo\obj\Debug\Oct17Demo.Properties.Resources.resources
+G:\Visual Programming\Oct17Demo\Oct17Demo\obj\Debug\Oct17Demo.csproj.GenerateResource.Cache

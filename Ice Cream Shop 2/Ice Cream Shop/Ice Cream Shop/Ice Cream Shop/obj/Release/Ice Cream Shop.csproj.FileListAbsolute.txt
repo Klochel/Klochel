@@ -1,0 +1,9 @@
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Release\Ice Cream Shop.exe.config
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Release\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\bin\Release\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Release\Ice_Cream_Shop.Form1.resources
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Release\Ice_Cream_Shop.Properties.Resources.resources
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Release\Ice Cream Shop.csproj.GenerateResource.Cache
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Release\Ice Cream Shop.exe
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Release\Ice Cream Shop.pdb
+G:\Visual Programming\Ice Cream Shop\Ice Cream Shop\obj\Release\Ice Cream Shop.csprojResolveAssemblyReference.cache
